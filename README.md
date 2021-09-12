@@ -9,6 +9,6 @@ A simple homepage for music lovers to share their playlists to the platform Reso
 設計給音樂愛好者分享播放清單到平台 Resound 上的簡易主頁。
 
 ## 學習資源 Resource
-[Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
-[Tailwind CSS Documentation](https://tailwindcss.com/docs)
-[Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
+* [Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+* [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+* [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
