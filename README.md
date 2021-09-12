@@ -1,4 +1,4 @@
-## 個人練習 Purpose
+## 個人練習 Practice
 A practice repo of Tailwind CSS with the tutorial on The Net Ninja YouTube channel.
 
 作為紀錄網路自學 Tailwind CSS 基礎的小專案練習。
